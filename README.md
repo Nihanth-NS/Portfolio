@@ -82,3 +82,4 @@ nihanth-portfolio/
 
 ## Certification assets
 The public folder includes the AWS Certified Solutions Architect – Associate badge and certificate PDF used in the main-page certification section. Confirm the issue/expiration dates and verification number before publishing.
+"# Portfolio" 
